@@ -5,7 +5,7 @@ User interface for running Gulp tasks.
 
 ## Installation
 
-Installing pre-requisites and dependencies:
+After downloading the repo, install its pre-requisites and dependencies:
 
 ```
 npm install
